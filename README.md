@@ -5,13 +5,13 @@ This repository contains three projects developed during my CODESOFT internship.
 
 Projects
 1) Guess Number Game
-Description: A simple console-based game where the user tries to guess a randomly generated number.
-Technologies Used: JAVA
+   Description: A simple console-based game where the user tries to guess a randomly generated number.
+   Technologies Used: JAVA
 
 2) Student Grade Calculator
-Description: An application that calculates and displays student grades based on input data.
-Technologies Used: JAVA
+   Description: An application that calculates and displays student grades based on input data.
+   Technologies Used: JAVA
 
 3) ATM Interface
-Description: Simulates an ATM interface, allowing users to perform basic banking operations.
-Technologies Used: JAVA
+   Description: Simulates an ATM interface, allowing users to perform basic banking operations.
+   Technologies Used: JAVA
